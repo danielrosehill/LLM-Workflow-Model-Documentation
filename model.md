@@ -2,7 +2,7 @@
 
 *Daniel Rosehill (Overcaffeinated GPT enthusiast)*
 
-[A sloth working with robots in an office](/images/9.webp)
+![A sloth working with robots in an office](/images/9.webp)
 
 *V1*
 
