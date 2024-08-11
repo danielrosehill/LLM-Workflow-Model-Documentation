@@ -1,8 +1,8 @@
-# What The Hell Is "Professional" GPT Usage!?
+# Professional GPT Workflows: A Description Of Emerging Best-Practices
 
 *Daniel Rosehill (Overcaffeinated GPT enthusiast)*
 
-![/images/banner2.webp]
+[A sloth working with robots in an office](/images/9.webp)
 
 *V1*
 
@@ -88,7 +88,7 @@ Some tools you could use to quickly kick off this inventory system include:
 
 You could even set up a private Wordpress site just for this purpose and use the built in taxonomies as the organisational system. 
 
-![/images/4.webp]
+!([Sloth travelling through space](/images/4.webp)
 
   ## Separating "Production" & Dev/Staging
 
@@ -111,7 +111,7 @@ You could even set up a private Wordpress site just for this purpose and use the
 
   ## Staging: Polishing Prompts
 
-![/images/7.webp]
+![Sloth polishing GPT]([/images/7.webp)
 
 Even if our production process is entirely non-automated, it still makes abundant sense to separate prompt development from prompt production. 
 
@@ -130,7 +130,7 @@ To bring all the elements together, the following are basic elements in a relati
 
 ## The Prompt Workflow Cycle
 
-![/images/8.webp]
+![[The prompt workflow cycle completes](/images/8.webp)
 
 This version of the cycle could be summarised as follows, broken down step by step.
 
