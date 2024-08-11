@@ -92,7 +92,7 @@ You could even set up a private Wordpress site just for this purpose and use the
 
   ## Separating "Production" & Dev/Staging
 
-  ![/images/6.webp]
+  ![Sloth photo](/images/6.webp)
   *Professional GPT workflows can entail separate components for "production" and development*
 
   Consider ChatGPT.
@@ -111,7 +111,7 @@ You could even set up a private Wordpress site just for this purpose and use the
 
   ## Staging: Polishing Prompts
 
-![Sloth polishing GPT]([/images/7.webp)
+![Sloth polishing GPT](/images/7.webp)
 
 Even if our production process is entirely non-automated, it still makes abundant sense to separate prompt development from prompt production. 
 
@@ -130,7 +130,7 @@ To bring all the elements together, the following are basic elements in a relati
 
 ## The Prompt Workflow Cycle
 
-![[The prompt workflow cycle completes](/images/8.webp)
+![The prompt workflow cycle completes](/images/8.webp)
 
 This version of the cycle could be summarised as follows, broken down step by step.
 
